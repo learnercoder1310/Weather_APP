@@ -2,6 +2,8 @@
 
 A sleek and user-friendly weather web application that provides real-time weather updates with visually adaptive UI elements. This app fetches data from a weather API and dynamically presents weather conditions of any searched city.
 
+![image alt](https://github.com/learnercoder1310/Weather_APP/blob/3c8839139baa01c7a0f092916f27794bf20316b1/SS/output1.png)
+
 ## 🚀 Features
 
 - 🌡️ **Real-time Weather Data**  
