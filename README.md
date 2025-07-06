@@ -4,6 +4,8 @@ A sleek and user-friendly weather web application that provides real-time weathe
 
 ![image alt](https://github.com/learnercoder1310/Weather_APP/blob/3c8839139baa01c7a0f092916f27794bf20316b1/SS/output1.png)
 
+![image_alt](https://github.com/learnercoder1310/Weather_APP/blob/a1f85cd58c090cf702d75c87448eced9abfe5bf7/SS/output2.png)
+
 ## 🚀 Features
 
 - 🌡️ **Real-time Weather Data**  
